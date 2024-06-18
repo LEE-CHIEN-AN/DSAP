@@ -1,4 +1,4 @@
-# 資結期末專題
+# 112-2 DSAP Final Project / 礦物開採輸送帶系統最佳化
 [hackmd 協作紀錄](https://hackmd.io/@RuH9UULLRMuRo2iEsweIqA/ryXez2aQC)
 
 [TA 環境建置的指南](https://hackmd.io/@5l3hDBgESV6AQkHYEjbQbw/Syrt-P3MR)
