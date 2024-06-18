@@ -30,17 +30,17 @@
 
 ---
 ## Visualize
-[Trie](https://www.cs.usfca.edu/~galles/visualization/Trie.html )
-[Min Heap](https://www.cs.usfca.edu/~galles/visualization/Heap.html)
-[Binary Search Tree ](https://visualgo.net/en/bst)
-[AVL Tree](https://visualgo.net/en/bst)
-[Red Black Tree](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
-[B tree](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
-[Graph Struture](https://visualgo.net/en/graphds)
-[Graph Traversal: BFS/DFS](https://visualgo.net/en/dfsbfs)
-[Shortest Path](https://visualgo.net/en/sssp)
-[Minimum Spanning Tree ](https://visualgo.net/en/mst)
-[Disjoint](https://visualgo.net/en/ufds)
+- [Trie](https://www.cs.usfca.edu/~galles/visualization/Trie.html )
+- [Min Heap](https://www.cs.usfca.edu/~galles/visualization/Heap.html)
+- [Binary Search Tree ](https://visualgo.net/en/bst)
+- [AVL Tree](https://visualgo.net/en/bst)
+- [Red Black Tree](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
+- [B tree](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
+- [Graph Struture](https://visualgo.net/en/graphds)
+- [Graph Traversal: BFS/DFS](https://visualgo.net/en/dfsbfs)
+- [Shortest Path](https://visualgo.net/en/sssp)
+- [Minimum Spanning Tree ](https://visualgo.net/en/mst)
+- [Disjoint](https://visualgo.net/en/ufds)
 
 
 
